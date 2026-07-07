@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainacore/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nainacore/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nainacore/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
