@@ -59,6 +59,7 @@
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Backtracking
 |  |
@@ -68,5 +69,6 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
