@@ -12,12 +12,14 @@
 | [0217-contains-duplicate](https://github.com/nainacore/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nainacore/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nainacore/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nainacore/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
+| [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,8 +81,17 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nainacore/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nainacore/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
