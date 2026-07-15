@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nainacore/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainacore/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nainacore/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nainacore/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nainacore/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
@@ -48,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nainacore/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -64,6 +67,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
