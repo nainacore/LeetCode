@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/nainacore/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/nainacore/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nainacore/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
@@ -72,6 +73,7 @@
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/nainacore/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Backtracking
