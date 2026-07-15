@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nainacore/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nainacore/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
