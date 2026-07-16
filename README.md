@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/nainacore/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nainacore/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nainacore/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nainacore/LeetCode/tree/master/0706-design-hashmap) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nainacore/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nainacore/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/nainacore/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/nainacore/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Backtracking
