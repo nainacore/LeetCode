@@ -105,10 +105,12 @@
 | [0225-implement-stack-using-queues](https://github.com/nainacore/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nainacore/LeetCode/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/nainacore/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nainacore/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/nainacore/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nainacore/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/nainacore/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
