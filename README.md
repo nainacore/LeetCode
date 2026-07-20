@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nainacore/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nainacore/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/nainacore/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nainacore/LeetCode/tree/master/0706-design-hashmap) |
@@ -125,6 +127,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nainacore/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/nainacore/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
