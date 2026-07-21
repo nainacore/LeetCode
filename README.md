@@ -32,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nainacore/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainacore/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nainacore/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
@@ -91,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nainacore/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/nainacore/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
