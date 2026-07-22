@@ -27,6 +27,7 @@
 | [0242-valid-anagram](https://github.com/nainacore/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nainacore/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nainacore/LeetCode/tree/master/0706-design-hashmap) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@
 | [0205-isomorphic-strings](https://github.com/nainacore/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nainacore/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nainacore/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Backtracking
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nainacore/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/nainacore/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nainacore/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
