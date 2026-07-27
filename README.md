@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/nainacore/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/nainacore/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainacore/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nainacore/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -45,6 +46,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nainacore/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/nainacore/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainacore/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nainacore/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nainacore/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 ## Breadth-First Search
 |  |
 | ------- |
