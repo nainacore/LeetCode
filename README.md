@@ -82,6 +82,7 @@
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nainacore/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nainacore/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nainacore/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nainacore/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nainacore/LeetCode/tree/master/0322-coin-change) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nainacore/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
