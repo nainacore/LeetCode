@@ -63,6 +63,7 @@
 | [0202-happy-number](https://github.com/nainacore/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nainacore/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nainacore/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nainacore/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -112,6 +113,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nainacore/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nainacore/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
@@ -207,6 +209,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nainacore/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Breadth-First Search
 |  |
 | ------- |
