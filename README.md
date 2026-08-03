@@ -25,6 +25,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nainacore/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nainacore/LeetCode/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 | [0152-maximum-product-subarray](https://github.com/nainacore/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nainacore/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nainacore/LeetCode/tree/master/0322-coin-change) |
+| [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
@@ -66,6 +68,7 @@
 | [0202-happy-number](https://github.com/nainacore/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nainacore/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nainacore/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -233,13 +236,16 @@
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
