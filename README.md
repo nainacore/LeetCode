@@ -64,6 +64,7 @@
 | [0486-predict-the-winner](https://github.com/nainacore/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nainacore/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nainacore/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nainacore/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nainacore/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nainacore/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nainacore/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -157,6 +159,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/nainacore/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/nainacore/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nainacore/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nainacore/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nainacore/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nainacore/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nainacore/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Breadth-First Search
 |  |
