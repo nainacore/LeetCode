@@ -28,6 +28,7 @@
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nainacore/LeetCode/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/nainacore/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | [0322-coin-change](https://github.com/nainacore/LeetCode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/nainacore/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nainacore/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
@@ -76,6 +78,7 @@
 | [0486-predict-the-winner](https://github.com/nainacore/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nainacore/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nainacore/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -227,6 +230,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nainacore/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 ## Database
 |  |
 | ------- |
@@ -258,18 +262,21 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/nainacore/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nainacore/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nainacore/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
