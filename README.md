@@ -30,6 +30,7 @@
 | [0877-stone-game](https://github.com/nainacore/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nainacore/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nainacore/LeetCode/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nainacore/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nainacore/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nainacore/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/nainacore/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nainacore/LeetCode/tree/master/0706-design-hashmap) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nainacore/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nainacore/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nainacore/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/nainacore/LeetCode/tree/master/3731-find-missing-elements) |
@@ -107,6 +109,7 @@
 | [0268-missing-number](https://github.com/nainacore/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nainacore/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nainacore/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nainacore/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nainacore/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nainacore/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/nainacore/LeetCode/tree/master/3731-find-missing-elements) |
