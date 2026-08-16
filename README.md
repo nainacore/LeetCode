@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nainacore/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/nainacore/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/nainacore/LeetCode/tree/master/0202-happy-number) |
