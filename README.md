@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/nainacore/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nainacore/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nainacore/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/nainacore/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nainacore/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nainacore/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/nainacore/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
@@ -135,6 +137,7 @@
 | [0006-zigzag-conversion](https://github.com/nainacore/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nainacore/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nainacore/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
