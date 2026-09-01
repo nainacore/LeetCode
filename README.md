@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nainacore/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nainacore/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nainacore/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/nainacore/LeetCode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
@@ -168,6 +169,7 @@
 | [0011-container-with-most-water](https://github.com/nainacore/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nainacore/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nainacore/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/nainacore/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainacore/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nainacore/LeetCode/tree/master/0202-happy-number) |
