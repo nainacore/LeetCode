@@ -60,6 +60,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nainacore/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nainacore/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/nainacore/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -139,6 +140,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nainacore/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nainacore/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/nainacore/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -183,6 +185,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nainacore/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/nainacore/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nainacore/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
@@ -337,4 +340,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nainacore/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/nainacore/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
