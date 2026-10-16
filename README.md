@@ -68,6 +68,7 @@
 | [0022-generate-parentheses](https://github.com/nainacore/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nainacore/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nainacore/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/nainacore/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/nainacore/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -152,6 +153,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nainacore/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/nainacore/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/nainacore/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/nainacore/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nainacore/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -241,6 +243,7 @@
 | [0002-add-two-numbers](https://github.com/nainacore/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nainacore/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nainacore/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/nainacore/LeetCode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/nainacore/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/nainacore/LeetCode/tree/master/0486-predict-the-winner) |
 ## Simulation
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nainacore/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/nainacore/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nainacore/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
