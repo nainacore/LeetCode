@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/nainacore/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nainacore/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nainacore/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nainacore/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
@@ -69,6 +70,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nainacore/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nainacore/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/nainacore/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/nainacore/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/nainacore/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -288,6 +290,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nainacore/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/nainacore/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/nainacore/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nainacore/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nainacore/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
