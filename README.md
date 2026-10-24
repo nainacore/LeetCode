@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nainacore/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nainacore/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/nainacore/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/nainacore/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/nainacore/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainacore/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nainacore/LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/nainacore/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -384,4 +386,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nainacore/LeetCode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/nainacore/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
