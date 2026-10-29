@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/nainacore/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nainacore/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nainacore/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/nainacore/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nainacore/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nainacore/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainacore/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nainacore/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nainacore/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/nainacore/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nainacore/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/nainacore/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nainacore/LeetCode/tree/master/0205-isomorphic-strings) |
